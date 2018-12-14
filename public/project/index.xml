@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Agustí Alentorn</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Agustí Alentorn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 14 Dec 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PRT-K</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>This project is funded by the Institut National du Cancer INCa and the DGOS and aim to model mathematically the evolution of Primary Central Nervous System Lymphoma (PCNSL).
+It is a partnership between different teams:
+ AP-HP, Pr HOANG-XUAN and Dr ALENTORN CEA-Neurospin Dr FROUIN INRIA from Paris, Dr DRASDO INRIA from Bordeaux, Dr SAUT and Institut Curie, Dr SOUSSAIN  It will combine radiomics data, NGS, and microscopic data from data to model and microscopic and mesoscale the evolution of PCNSL.</description>
+    </item>
+    
+    <item>
+      <title>CIT</title>
+      <link>/project/cit/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/cit/</guid>
+      <description>This project is funded by the La Ligue Nationale Contre le Cancer - Carte d&amp;rsquo;Idendité de Tumeurs, CIT
+This project is leaded by Dr ALENTORN and aims to analyze PCNSL using multi-comics NGS data:
+ Whole-exome RNA-seq Methylation Radiomics  We will use a large cohort of PCNSL to underpin new potential therapeutic targets in this orphan disease.</description>
+    </item>
+    
+  </channel>
+</rss>

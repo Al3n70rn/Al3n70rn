@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agustí Alentorn on Agustí Alentorn</title>
+    <link>/</link>
+    <description>Recent content in Agustí Alentorn on Agustí Alentorn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PRT-K</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;This project is funded by the Institut National du Cancer &lt;a href=&#34;https://www.e-cancer.fr/&#34; target=&#34;_blank&#34;&gt;INCa&lt;/a&gt; and the &lt;a href=&#34;https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/dgos-direction-generale-de-l-offre-de-soins&#34; target=&#34;_blank&#34;&gt;DGOS&lt;/a&gt; and aim to model mathematically the evolution of Primary Central Nervous System Lymphoma (PCNSL).&lt;/p&gt;
+
+&lt;p&gt;It is a partnership between different teams:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aphp.fr/&#34; target=&#34;_blank&#34;&gt;AP-HP&lt;/a&gt;, Pr HOANG-XUAN and Dr ALENTORN&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/NeuroSpin.aspx&#34; target=&#34;_blank&#34;&gt;CEA-Neurospin&lt;/a&gt; Dr FROUIN&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inria.fr/equipes/mamba&#34; target=&#34;_blank&#34;&gt;INRIA from Paris&lt;/a&gt;, Dr DRASDO&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inria.fr/equipes/monc&#34; target=&#34;_blank&#34;&gt;INRIA from Bordeaux&lt;/a&gt;, Dr SAUT and&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://science.curie.fr/plateformes/radiotherapie-experimentale/&#34; target=&#34;_blank&#34;&gt;Institut Curie&lt;/a&gt;, Dr SOUSSAIN&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It will combine radiomics data, NGS, and microscopic data from data to model and microscopic and mesoscale the evolution of PCNSL. It addition we will also use a mouse model of PCNSL to further improve our knowledge in this rare disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primary CNS lymphoma patient-derived orthotopic xenograft model capture the biological and molecular characteristics of the disease</title>
+      <link>/publication/pdox/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pdox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Better Prognostic Stratification and Driver Gene Identification Using Somatic Copy Number Variations in Anaplastic Oligodendroglioma.</title>
+      <link>/publication/ml_pola/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ml_pola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of novel recurrent ETV6-IgH fusions in primary central nervous system lymphoma</title>
+      <link>/publication/etv6/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/etv6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic immune profiling of ovarian cancers in paraneoplastic cerebellar degeneration associated with anti-Yo antibodies</title>
+      <link>/publication/antiyo/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/antiyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation of reliable textural indices from multimodal brain MRI: suggestions based on a study of patients with diffuse intrinsic pontine glioma</title>
+      <link>/publication/texture/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/texture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pazopanib efficacy in recurrent central nervous system hemangiopericytomas</title>
+      <link>/publication/pazopanib/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/pazopanib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term impact of temozolomide on 1p/19q-codeleted low-grade glioma growth kinetics</title>
+      <link>/publication/codel_kinetics/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/codel_kinetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain volumetric analysis and cortical thickness in adults with saccadic intrusions (ocular flutter or opsoclonus-myoclonus syndrome)</title>
+      <link>/publication/saccadic_intrusions/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/saccadic_intrusions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary central nervous system lymphoma: time for diagnostic biomarkers and biotherapies?</title>
+      <link>/publication/current_pcnsl/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/current_pcnsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of response and relapse in primary CNS lymphomas after first-line chemotherapy: imaging analysis of the ANOCEF-GOELAMS prospective randomized trial</title>
+      <link>/publication/anocef_pcnsl/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/anocef_pcnsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of temozolomide resistance in low-grade gliomas using a mechanistic mathematical model.</title>
+      <link>/publication/tmz_resistance/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tmz_resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIT</title>
+      <link>/project/cit/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/cit/</guid>
+      <description>&lt;p&gt;This project is funded by the &lt;a href=&#34;http://cit.ligue-cancer.net/language/fr/le-programme-cit/&#34; target=&#34;_blank&#34;&gt;La Ligue Nationale Contre le Cancer - Carte d&amp;rsquo;Idendité de Tumeurs, CIT&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This project is leaded by Dr ALENTORN and aims to analyze PCNSL using multi-comics NGS data:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Whole-exome&lt;/li&gt;
+&lt;li&gt;RNA-seq&lt;/li&gt;
+&lt;li&gt;Methylation&lt;/li&gt;
+&lt;li&gt;Radiomics&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We will use a large cohort of PCNSL to underpin new potential therapeutic targets in this orphan disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>17p Homodisomy Is Associated With Better Outcome in 1p19q Non-Codeleted and IDH-Mutated Gliomas</title>
+      <link>/publication/17p/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/17p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

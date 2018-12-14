@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Agustí Alentorn</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Agustí Alentorn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primary CNS lymphoma patient-derived orthotopic xenograft model capture the biological and molecular characteristics of the disease</title>
+      <link>/publication/pdox/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pdox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Better Prognostic Stratification and Driver Gene Identification Using Somatic Copy Number Variations in Anaplastic Oligodendroglioma.</title>
+      <link>/publication/ml_pola/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ml_pola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of novel recurrent ETV6-IgH fusions in primary central nervous system lymphoma</title>
+      <link>/publication/etv6/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/etv6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic immune profiling of ovarian cancers in paraneoplastic cerebellar degeneration associated with anti-Yo antibodies</title>
+      <link>/publication/antiyo/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/antiyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation of reliable textural indices from multimodal brain MRI: suggestions based on a study of patients with diffuse intrinsic pontine glioma</title>
+      <link>/publication/texture/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/texture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pazopanib efficacy in recurrent central nervous system hemangiopericytomas</title>
+      <link>/publication/pazopanib/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/pazopanib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term impact of temozolomide on 1p/19q-codeleted low-grade glioma growth kinetics</title>
+      <link>/publication/codel_kinetics/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/codel_kinetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain volumetric analysis and cortical thickness in adults with saccadic intrusions (ocular flutter or opsoclonus-myoclonus syndrome)</title>
+      <link>/publication/saccadic_intrusions/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/saccadic_intrusions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary central nervous system lymphoma: time for diagnostic biomarkers and biotherapies?</title>
+      <link>/publication/current_pcnsl/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/current_pcnsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of response and relapse in primary CNS lymphomas after first-line chemotherapy: imaging analysis of the ANOCEF-GOELAMS prospective randomized trial</title>
+      <link>/publication/anocef_pcnsl/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/anocef_pcnsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of temozolomide resistance in low-grade gliomas using a mechanistic mathematical model.</title>
+      <link>/publication/tmz_resistance/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tmz_resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>17p Homodisomy Is Associated With Better Outcome in 1p19q Non-Codeleted and IDH-Mutated Gliomas</title>
+      <link>/publication/17p/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/17p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K27M mutation in H3F3A in ganglioglioma grade I with spontaneous malignant transformation extends the histopathological spectrum of the histone H3 oncogenic pathway</title>
+      <link>/publication/k27m_ganglioglioma/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/k27m_ganglioglioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting signs and symptoms in brain tumors</title>
+      <link>/publication/handbook_clin/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/handbook_clin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TERT promoter mutations and rs2853669 polymorphism: prognostic impact and interactions with common alterations in glioblastomas</title>
+      <link>/publication/tert_rs/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tert_rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeted therapy in glioblastoma: update and perspectives</title>
+      <link>/publication/bulletin/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bulletin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Response to Temozolomide in Low-Grade Glioma Patients Based on Tumor Size Dynamics and Genetic Characteristics</title>
+      <link>/publication/prediction_tmz/</link>
+      <pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/prediction_tmz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allelic loss of 9p21.3 is a prognostic factor in 1p/19q codeleted anaplastic gliomas</title>
+      <link>/publication/codel_9p/</link>
+      <pubDate>Sat, 05 Sep 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/codel_9p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LRP1B deletion is associated with poor outcome for glioblastoma patients</title>
+      <link>/publication/lrp1b/</link>
+      <pubDate>Sat, 05 Sep 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lrp1b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation and somatic mutations converge on cell cycle and define similar evolutionary histories in brain tumors</title>
+      <link>/publication/cancer_cell/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/cancer_cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIC inactivating mutations identify aggressive subset of 1p19q codeleted gliomas</title>
+      <link>/publication/cic/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/cic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential gene methylation in paired glioblastomas suggests a role of immune response pathways in tumor progression</title>
+      <link>/publication/methylation_gbm/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/methylation_gbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TERT promoter mutations in primary central nervous system lymphoma are associated with spatial distribution in the splenium</title>
+      <link>/publication/tert_pcnsl/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/tert_pcnsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary central nervous system lymphoma: time for diagnostic biomarkers and biotherapies?</title>
+      <link>/publication/current_onco_pcnsl/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/current_onco_pcnsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular profiling of gliomas: potential therapeutic implications</title>
+      <link>/publication/molecular_profiling/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/molecular_profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging circulating biomarkers in glioblastoma: promises and challenges</title>
+      <link>/publication/circulating_biomarkers/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/circulating_biomarkers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and temporal evolution of distal 10q deletion, a prognostically unfavorable event in diffuse low-grade gliomas</title>
+      <link>/publication/10q/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/10q/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etiologic spectrum and prognosis of longitudinally extensive transverse myelopathies</title>
+      <link>/publication/letm/</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/letm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> TP53 and p53 statuses and their clinical impact in diffuse low grade gliomas</title>
+      <link>/publication/tp53/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/tp53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical value of chromosome arms 19q and 11p losses in low-grade gliomas</title>
+      <link>/publication/19q/</link>
+      <pubDate>Sun, 15 Dec 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/19q/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nutritional status in patients with recurrent glioblastoma</title>
+      <link>/publication/nutritional/</link>
+      <pubDate>Sat, 05 Oct 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/nutritional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
